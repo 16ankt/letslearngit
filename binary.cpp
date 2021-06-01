@@ -47,7 +47,7 @@ cin>>find;
         cout<<high;
     }
     else{
-        cout<<"not Found";
+        cout<<"element not Found";
     }
 
 }
